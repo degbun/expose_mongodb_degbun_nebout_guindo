@@ -1,0 +1,1 @@
+les 4 fichiers contiennent les docker-compose de chaque serveur donc veillez les ouvrir et les lancer
